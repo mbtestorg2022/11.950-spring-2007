@@ -152,7 +152,7 @@ United Nations Development Programme. "Decentralized Governance for Development:
 
 Mabogunje, Akin L. "Local Institutions and an Urban Agenda for the 1990s." In _Urban Research in Developing Countries: Perspectives on the City._ Vol. 4. Edited by Richard Stren and Judith Kjellberg. Toronto, Canada: Centre for Urban and Community Studies, University of Toronto, 1995, chapter 2. ISBN: 9780772713711.
 
-Tulchin, Joseph S., and Andrew Selee, eds. "Decentralization and Democratic Governance In Latin America." In _Woodrow_ _Wilson Center Report on the Americas_. Introduction and chapter 1. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3 MB](https://www.wilsoncenter.org/publication/decentralization-and-democratic-governance-latin-america-no-12))
+Tulchin, Joseph S., and Andrew Selee, eds. "Decentralization and Democratic Governance In Latin America." In _Woodrow_ _Wilson Center Report on the Americas_. Introduction and chapter 1. ([PDF - 1.3 MB](https://www.wilsoncenter.org/publication/decentralization-and-democratic-governance-latin-america-no-12))
 
 Stren, Richard. "Local Governance and the Development of Associational Life: An Exploration." In _Democratic Governance and Urban Sustainability._ Edited by Joseph S. Tulchin, Diana H. Varat, and Blair A. Ruble. Woodrow Wilson International Center for Scholars, 2002.
 
